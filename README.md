@@ -5,7 +5,7 @@
 📝 1. Verbas Rescisórias
 A rescisão pode incluir os seguintes valores, dependendo do tipo de desligamento:
 
-📊 3. Exemplo Prático
+📊 Exemplo Prático
 Funcionário com os seguintes dados:
 
 Salário: R$ 3.000,00
