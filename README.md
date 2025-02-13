@@ -1,7 +1,7 @@
 # hr-clean-bachend
 - Iniciando o projeto, usando Quarkus
 - Este sistema tem como objetivo
-- 
+  
 📝 1. Verbas Rescisórias
 A rescisão pode incluir os seguintes valores, dependendo do tipo de desligamento:
 
